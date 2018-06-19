@@ -30,6 +30,12 @@ and <img src="https://latex.codecogs.com/gif.latex?y_f"> is the control-free sol
     <img src="https://latex.codecogs.com/gif.latex?%5Cbegin%7Bcases%7D%20-%5CDelta%20y_%7Bf%7D%20%3D%20f%20%26%20%5Ctext%7Bin%20%7D%20%5COmega%2C%20%5C%5C%20y_%7Bf%7D%20%3D%200%20%26%20%5Ctext%7Bon%20%7D%20%5CGamma.%20%5Cend%7Bcases%7D">
 </p>
 
+With the above separation of the state variable, the cost functional can be expressed as
+
+<p align="center">
+    <img src="https://latex.codecogs.com/gif.latex?J%20%5Cleft%28%20u%20%5Cright%29%20%3D%20%5Cfrac%7B1%7D%7B2%7D%20%5Cleft%28%20y_u%20&plus;%20y_f%20-%20y_d%2C%20y_u%20&plus;%20y_f%20-%20y_d%20%5Cright%29_%7BL%5E2%5Cleft%28%20%5COmega%20%5Cright%29%7D%20&plus;%20%5Cfrac%7B%5Cbeta%7D%7B2%7D%20%5Cleft%28%20u%20%2C%20u%20%5Cright%29%20_%7BL%5E2%5Cleft%28%20%5COmega%20%5Cright%29%7D.">
+</p>
+
 ## Getting Started
 
 The solver must be compiled in the terminal. It is advisable to first clean previous compilations with
@@ -59,6 +65,8 @@ In order to run the solver move to the case folder _poissonCGAdjoinFoamCase_ and
 
 poissonCGAdjointFoam
 ```
+
+The _poissonCGAdjointFoam_ solver has been tested in a square domain <img src="https://latex.codecogs.com/gif.latex?%5B0%2C%201%5D%20%5Ctimes%20%5B0%2C%201%5D"> with zero Dirichlet boundary conditions and <img src="https://latex.codecogs.com/gif.latex?%5Cbeta%20%3D%2010%5E%7B-3%7D%2C10%5E%7B-4%7D%2C10%5E%7B-5%7D%2C10%5E%7B-6%7D">. The target function is <img src="https://latex.codecogs.com/gif.latex?y_d%20%3D%20xy%20%5Csin%20%5Cleft%28%20%5Cpi%20x%20%5Cright%29%20%5Csin%20%5Cleft%28%20%5Cpi%20y%20%5Cright%29">.
 
 <p align="center">
   <img src="poissonCGAdjointFoamCase/cg_J.png">
