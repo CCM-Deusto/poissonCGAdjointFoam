@@ -33,7 +33,7 @@ and <img src="https://latex.codecogs.com/gif.latex?y_f"> is the control-free sol
 With the above separation of the state variable, the cost functional can be expressed as
 
 <p align="center">
-    <img src="https://latex.codecogs.com/gif.latex?J%20%5Cleft%28%20u%20%5Cright%29%20%3D%20%5Cfrac%7B1%7D%7B2%7D%20%5Cleft%28%20y_u%20&plus;%20y_f%20-%20y_d%2C%20y_u%20&plus;%20y_f%20-%20y_d%20%5Cright%29_%7BL%5E2%5Cleft%28%20%5COmega%20%5Cright%29%7D%20&plus;%20%5Cfrac%7B%5Cbeta%7D%7B2%7D%20%5Cleft%28%20u%20%2C%20u%20%5Cright%29%20_%7BL%5E2%5Cleft%28%20%5COmega%20%5Cright%29%7D.">
+    <img src="https://latex.codecogs.com/gif.latex?%5Cmathcal%7BJ%7D%20%5Cleft%28%20u%20%5Cright%29%20%3D%20%5Cfrac%7B1%7D%7B2%7D%20%5Cleft%28%20y_u%20&plus;%20y_f%20-%20y_d%2C%20y_u%20&plus;%20y_f%20-%20y_d%20%5Cright%29_%7BL%5E2%5Cleft%28%20%5COmega%20%5Cright%29%7D%20&plus;%20%5Cfrac%7B%5Cbeta%7D%7B2%7D%20%5Cleft%28%20u%20%2C%20u%20%5Cright%29%20_%7BL%5E2%5Cleft%28%20%5COmega%20%5Cright%29%7D.">
 </p>
 
 We define a linear operator 
