@@ -61,11 +61,11 @@ poissonCGAdjointFoam
 ```
 
 <p align="center">
-  <img src="poissonAdjointFoamCase/cg_J.png">
+  <img src="poissonCGAdjointFoamCase/cg_J.png">
 </p>
 
 <p align="center">
-  <img src="poissonAdjointFoamCase/cg_Jy.png">
+  <img src="poissonCGAdjointFoamCase/cg_Jy.png">
 </p>
 
 ### Warning
