@@ -98,13 +98,17 @@ The _poissonCGAdjointFoam_ solver has been tested in a square domain <img src="h
   <img src="poissonCGAdjointFoamCase/cg_J.png">
 </p>
 
-[Click to open image 1.](https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonCGAdjointFoamCase/cg_J.png)
+<p align="center">
+  <a href="https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonCGAdjointFoamCase/cg_J.png" target="_blank">Click here to open image 1.</a>
+</p>
 
 <p align="center">
   <img src="poissonCGAdjointFoamCase/cg_Jy.png">
 </p>
 
-[Click to open image 2.](https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonCGAdjointFoamCase/cg_Jy.png)
+<p align="center">
+  <a href="https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonCGAdjointFoamCase/cg_Jy.png" target="_blank">Click here to open image 2.</a>
+</p>
 
 ### Warning
 
