@@ -99,15 +99,15 @@ The _poissonCGAdjointFoam_ solver has been tested in a square domain <img src="h
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonAdjointFoamCase/cg_J.png" target="_blank">Click here to open image 1.</a>
+  <a href="https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonCGAdjointFoamCase/cg_J.png" target="_blank">Click here to open image 1.</a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonCGAdjointFoamCase/cg_Jy.png" target="_blank"><img src="poissonAdjointFoamCase/cg_Jy.png"></a>
+   <a href="https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonCGAdjointFoamCase/cg_Jy.png" target="_blank"><img src="poissonCGAdjointFoamCase/cg_Jy.png"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonAdjointFoamCase/cg_Jy.png" target="_blank">Click here to open image 2.</a>
+  <a href="https://github.com/ChairOfComputationalMathematics/poissonCGAdjointFoam/blob/master/poissonCGAdjointFoamCase/cg_Jy.png" target="_blank">Click here to open image 2.</a>
 </p>
 
 ### Warning
