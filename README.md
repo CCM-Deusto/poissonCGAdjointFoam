@@ -1,4 +1,4 @@
-# Interior Control of the Poisson Equation with the Steepest Descent Method in OpenFOAM
+# Interior Control of the Poisson Equation with the Conjugate Gradient Method in OpenFOAM
 
 In this work we solve the optimal control problem
 
